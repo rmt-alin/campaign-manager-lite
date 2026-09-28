@@ -1,0 +1,272 @@
+[
+  {
+    "id": "cmp_024",
+    "name": "Valentine's Fragrances",
+    "status": "DRAFT",
+    "start_date": "2027-02-04",
+    "end_date": "2027-02-23",
+    "budget_cents": 200000,
+    "spent_cents": 0
+  },
+  {
+    "id": "cmp_021",
+    "name": "New Year Detox Teas",
+    "status": "DRAFT",
+    "start_date": "2026-12-31",
+    "end_date": "2027-01-29",
+    "budget_cents": 100000,
+    "spent_cents": 0
+  },
+  {
+    "id": "cmp_020",
+    "name": "Black Friday Beauty",
+    "status": "DRAFT",
+    "start_date": "2026-11-21",
+    "end_date": "2026-11-27",
+    "budget_cents": 250000,
+    "spent_cents": 0
+  },
+  {
+    "id": "cmp_019",
+    "name": "Christmas Gift Sets",
+    "status": "DRAFT",
+    "start_date": "2026-11-06",
+    "end_date": "2026-12-20",
+    "budget_cents": 500000,
+    "spent_cents": 0
+  },
+  {
+    "id": "cmp_023",
+    "name": "Advent Calendar Teaser",
+    "status": "DRAFT",
+    "start_date": "2026-10-18",
+    "end_date": "2026-11-16",
+    "budget_cents": 200000,
+    "spent_cents": 0
+  },
+  {
+    "id": "cmp_022",
+    "name": "Winter Hand Cream",
+    "status": "DRAFT",
+    "start_date": "2026-10-11",
+    "end_date": "2026-12-09",
+    "budget_cents": 150000,
+    "spent_cents": 0
+  },
+  {
+    "id": "cmp_011",
+    "name": "Gluten Free Snacks",
+    "status": "ACTIVE",
+    "start_date": "2026-09-24",
+    "end_date": "2026-11-07",
+    "budget_cents": 150000,
+    "spent_cents": 1507
+  },
+  {
+    "id": "cmp_001",
+    "name": "Autumn Skin Care Push",
+    "status": "ACTIVE",
+    "start_date": "2026-09-22",
+    "end_date": "2026-11-20",
+    "budget_cents": 450000,
+    "spent_cents": 12623
+  },
+  {
+    "id": "cmp_009",
+    "name": "Men's Grooming Weekly",
+    "status": "ACTIVE",
+    "start_date": "2026-09-18",
+    "end_date": "2026-11-16",
+    "budget_cents": 200000,
+    "spent_cents": 16629
+  },
+  {
+    "id": "cmp_004",
+    "name": "Vitamin D Winter Prep",
+    "status": "ACTIVE",
+    "start_date": "2026-09-15",
+    "end_date": "2026-12-13",
+    "budget_cents": 550000,
+    "spent_cents": 38556
+  },
+  {
+    "id": "cmp_007",
+    "name": "Oral Care Month",
+    "status": "ACTIVE",
+    "start_date": "2026-09-11",
+    "end_date": "2026-10-10",
+    "budget_cents": 100000,
+    "spent_cents": 31406
+  },
+  {
+    "id": "cmp_017",
+    "name": "Face Masks Trial",
+    "status": "INACTIVE",
+    "start_date": "2026-09-09",
+    "end_date": "2026-10-08",
+    "budget_cents": 100000,
+    "spent_cents": 9556
+  },
+  {
+    "id": "cmp_003",
+    "name": "Organic Baby Food Launch",
+    "status": "ACTIVE",
+    "start_date": "2026-09-06",
+    "end_date": "2026-11-04",
+    "budget_cents": 450000,
+    "spent_cents": 105210
+  },
+  {
+    "id": "cmp_018",
+    "name": "Coffee Capsules Autumn",
+    "status": "INACTIVE",
+    "start_date": "2026-09-03",
+    "end_date": "2026-11-01",
+    "budget_cents": 150000,
+    "spent_cents": 29134
+  },
+  {
+    "id": "cmp_006",
+    "name": "Premium Hair Care Bundle",
+    "status": "ACTIVE",
+    "start_date": "2026-08-31",
+    "end_date": "2026-10-14",
+    "budget_cents": 300000,
+    "spent_cents": 106431
+  },
+  {
+    "id": "cmp_015",
+    "name": "Natural Deodorants",
+    "status": "INACTIVE",
+    "start_date": "2026-08-28",
+    "end_date": "2026-10-26",
+    "budget_cents": 150000,
+    "spent_cents": 37796
+  },
+  {
+    "id": "cmp_010",
+    "name": "Sun Care Clearance",
+    "status": "ACTIVE",
+    "start_date": "2026-08-25",
+    "end_date": "2026-10-03",
+    "budget_cents": 100000,
+    "spent_cents": 44688
+  },
+  {
+    "id": "cmp_002",
+    "name": "Back to School Stationery",
+    "status": "ACTIVE",
+    "start_date": "2026-08-20",
+    "end_date": "2026-10-03",
+    "budget_cents": 150000,
+    "spent_cents": 65583
+  },
+  {
+    "id": "cmp_008",
+    "name": "Pet Food Loyalty Boost",
+    "status": "ACTIVE",
+    "start_date": "2026-08-13",
+    "end_date": "2026-11-10",
+    "budget_cents": 400000,
+    "spent_cents": 125071
+  },
+  {
+    "id": "cmp_014",
+    "name": "Protein Bars Q3",
+    "status": "INACTIVE",
+    "start_date": "2026-08-03",
+    "end_date": "2026-10-31",
+    "budget_cents": 300000,
+    "spent_cents": 98844
+  },
+  {
+    "id": "cmp_005",
+    "name": "Eco Cleaning Essentials",
+    "status": "ACTIVE",
+    "start_date": "2026-07-29",
+    "end_date": "2026-11-25",
+    "budget_cents": 350000,
+    "spent_cents": 110426
+  },
+  {
+    "id": "cmp_016",
+    "name": "Kids Toothbrush Promo",
+    "status": "INACTIVE",
+    "start_date": "2026-07-25",
+    "end_date": "2026-09-22",
+    "budget_cents": 150000,
+    "spent_cents": 35931
+  },
+  {
+    "id": "cmp_012",
+    "name": "Household Paper Deals",
+    "status": "ACTIVE",
+    "start_date": "2026-07-19",
+    "end_date": "2026-10-26",
+    "budget_cents": 300000,
+    "spent_cents": 131852
+  },
+  {
+    "id": "cmp_013",
+    "name": "Summer BBQ Sauces",
+    "status": "INACTIVE",
+    "start_date": "2026-07-09",
+    "end_date": "2026-10-06",
+    "budget_cents": 300000,
+    "spent_cents": 127721
+  },
+  {
+    "id": "cmp_030",
+    "name": "Travel Minis Summer",
+    "status": "ARCHIVED",
+    "start_date": "2026-07-04",
+    "end_date": "2026-09-01",
+    "budget_cents": 150000,
+    "spent_cents": 87998
+  },
+  {
+    "id": "cmp_028",
+    "name": "Festival Sunscreen",
+    "status": "ARCHIVED",
+    "start_date": "2026-06-24",
+    "end_date": "2026-09-01",
+    "budget_cents": 250000,
+    "spent_cents": 182743
+  },
+  {
+    "id": "cmp_027",
+    "name": "Summer Hydration Drinks",
+    "status": "ARCHIVED",
+    "start_date": "2026-06-09",
+    "end_date": "2026-08-07",
+    "budget_cents": 200000,
+    "spent_cents": 128327
+  },
+  {
+    "id": "cmp_029",
+    "name": "Mother's Day Skin Care",
+    "status": "ARCHIVED",
+    "start_date": "2026-05-10",
+    "end_date": "2026-05-29",
+    "budget_cents": 250000,
+    "spent_cents": 138179
+  },
+  {
+    "id": "cmp_026",
+    "name": "Easter Chocolate Specials",
+    "status": "ARCHIVED",
+    "start_date": "2026-04-05",
+    "end_date": "2026-04-25",
+    "budget_cents": 200000,
+    "spent_cents": 99962
+  },
+  {
+    "id": "cmp_025",
+    "name": "Spring Allergy Relief",
+    "status": "ARCHIVED",
+    "start_date": "2026-03-21",
+    "end_date": "2026-05-19",
+    "budget_cents": 250000,
+    "spent_cents": 163928
+  }
+]
